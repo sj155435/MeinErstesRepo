@@ -1,7 +1,7 @@
 # LaLiga
-## Laliga Webasite
+## Laliga Website
 ## Ziel
-#Ziel der kleinen App ist die Darstellung der 2 besten Fußball Liga 
+#Ziel der kleinen App ist die Darstellung der zweitbesten Fußball Liga 
 ## Autoren
 *Ich und 
 *die GW22A
