@@ -1,0 +1,19 @@
+Main{
+    background-color: chartreuse;
+}
+
+Header{
+  background-color: aqua
+}
+
+aside{
+background-color: darkorange;
+}
+
+Footer{
+background-color: gray;
+}
+.container{
+display : flex;
+align-content: space-evenly;
+}
